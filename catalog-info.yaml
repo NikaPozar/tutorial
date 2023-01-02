@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "tutorial"
   annotations:
-    sonarqube.org/project-key: NikaPozar/NikaPozar_tutorial1
+    sonarqube.org/project-key: nikapozar/NikaPozar_tutorial1
     #/NikaPozar_tutorial
 spec:
   type: service
